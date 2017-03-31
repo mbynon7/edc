@@ -1,0 +1,16 @@
+<svg id="YouTube" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #838b8f;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_6" data-name="Rounded Rectangle 6" class="cls-1" x="3.5" y="6.844" width="23" height="16.313" rx="4" ry="4"/>
+  <path class="cls-2" d="M11.4,18.5v-8a0.481,0.481,0,0,1,.739-0.431c0.294,0.174,6.173,3.689,6.675,3.99a0.505,0.505,0,0,1,0,.866c-0.361.221-6.263,3.754-6.69,4A0.478,0.478,0,0,1,11.4,18.5Z" transform="translate(0.313 0.219)"/>
+</svg>
